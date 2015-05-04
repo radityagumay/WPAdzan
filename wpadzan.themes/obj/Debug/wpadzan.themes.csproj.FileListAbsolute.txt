@@ -1,0 +1,6 @@
+C:\Users\raditya\Documents\GitHub\WPAdzan\wpadzan.themes\Bin\Debug\wpadzan.themes.dll
+C:\Users\raditya\Documents\GitHub\WPAdzan\wpadzan.themes\Bin\Debug\wpadzan.themes.pdb
+C:\Users\raditya\Documents\GitHub\WPAdzan\wpadzan.themes\obj\Debug\wpadzan.themes.csprojResolveAssemblyReference.cache
+C:\Users\raditya\Documents\GitHub\WPAdzan\wpadzan.themes\obj\Debug\wpadzan.themes.g.resources
+C:\Users\raditya\Documents\GitHub\WPAdzan\wpadzan.themes\obj\Debug\wpadzan.themes.dll
+C:\Users\raditya\Documents\GitHub\WPAdzan\wpadzan.themes\obj\Debug\wpadzan.themes.pdb
